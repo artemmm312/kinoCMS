@@ -9,8 +9,8 @@
     <title>@yield('page.title', 'kinoCMS')</title>
 
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/5.1.3/css/bootstrap.min.css">
-    
-    <style>
+
+{{--     <style>
         body {
             background: none;
             padding-left: 15px;
@@ -33,7 +33,8 @@
             -o-background-size: cover;
             background-size: cover;
         }
-    </style>
+
+    </style> --}}
 
 </head>
 
