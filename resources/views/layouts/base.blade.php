@@ -8,6 +8,8 @@
 
     <title>@yield('page.title', 'kinoCMS')</title>
 
+    <link href="css/app.css" rel="stylesheet" type="text/css">
+
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/5.1.3/css/bootstrap.min.css">
 
 {{--     <style>
@@ -49,7 +51,7 @@
 
         @include('includes.footer')
     </div>
-
+    
     <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/5.1.3/js/bootstrap.min.js"></script>
 </body>
 

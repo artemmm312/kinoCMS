@@ -1,0 +1,9 @@
+/* body {
+    background-image: url("../../public/images/wallpapers-movies-02.jpg");
+    background-color: #ff0000 !important;
+
+} */
+html {
+    background: url(/images/wallpapers-movies-02.jpg?8104ea3ae9ec7a98c096fb4886573539) no-repeat center center fixed;
+    background-size: cover;
+}
